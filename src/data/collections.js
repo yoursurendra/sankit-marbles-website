@@ -34,5 +34,4 @@ export const stats = [
   { value: 7, suffix: "", label: "Marble Varieties" },
   { value: 7, suffix: "", label: "Granite Varieties" },
   { value: 2, suffix: "", label: "Categories — Marble & Granite" },
-  { value: 0, suffix: "Kothagudem", label: "Telangana", isText: true },
-];
+{ value: 2, suffix: "", label: "Locations", subLabel: "Kothagudem & Khammam" },];
