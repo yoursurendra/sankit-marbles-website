@@ -30,10 +30,10 @@ const features = [
     text: "Connect with our team directly by call or WhatsApp.",
   },
   {
-    icon: MapPin,
-    title: "Kothagudem",
-    text: "Based in Kothagudem, Telangana.",
-  },
+  icon: MapPin,
+  title: "Two Locations",
+  text: "Visit us in Kothagudem or Khammam, Telangana.",
+},
   {
     icon: MessageCircle,
     title: "Easy Enquiry",
